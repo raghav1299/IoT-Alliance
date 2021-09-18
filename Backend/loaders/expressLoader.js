@@ -18,6 +18,10 @@ const errorHandler = require("../middleware/error");
 const auth = require("../routes/auth");
 const authClient = require("../routes/authClient");
 const postRouter = require("../routes/post");
+const carpoolRouter = require("../routes/carpool");
+const locationRouter = require("../routes/location");
+const stopLocationRouter = require("../routes/stopLocation");
+const imageRouter = require("../routes/image");
 
 module.exports = (app) => {
   // Public files
@@ -66,6 +70,10 @@ module.exports = (app) => {
   app.use("/api/v1/auth", auth);
   app.use("/auth", authClient);
   app.use("/api/v1/posts", postRouter);
+  app.use("/api/v1/carpool", carpoolRouter);
+  app.use("/api/v1/location", locationRouter);
+  app.use("/api/v1/stopLocation", stopLocationRouter);
+  app.use("/api/v1/images", imageRouter);
 
   app.use("/", (req, res) => {
     res.status(200).json({ success: true });

@@ -1,8 +1,9 @@
 const mongoose = require("mongoose");
 
-const PostSchema = new mongoose.Schema({
+const GiveAwaySchema = new mongoose.Schema({
   title: {
     type: String,
+    required: [true, "Please add a title."],
   },
   caption: {
     type: String,
@@ -17,15 +18,17 @@ const PostSchema = new mongoose.Schema({
     ref: "User",
     required: [true, "Please add a reference User ID"],
   },
-  image: {
-    // Base64 string
-    type: String,
-    ref: "Image",
-  },
-  likes: {
-    type: Number,
-    default: 0,
+  images: [
+    {
+      // Base64 string
+      type: String,
+      default: [],
+    },
+  ],
+  pickupLocation: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Location",
   },
 });
 
-module.exports = mongoose.model("Post", PostSchema);
+module.exports = mongoose.model("GiveAway", GiveAwaySchema);
