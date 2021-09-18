@@ -7,7 +7,7 @@ exports.createPostDocument = asyncHandler(async (reqBody) => {
 });
 
 exports.getPostDocumentById = asyncHandler(async (postId) => {
-  return await Post.findById(postId);
+  return await Post.findById(postId).populate("image");
 });
 
 exports.updatePostDocumentById = asyncHandler(async (postId, reqBody) => {
