@@ -1,15 +1,22 @@
 import axios from 'axios';
 import React, { useEffect, useState, useCallback } from 'react';
-import { Text, TouchableOpacity, View, Image, FlatList, Button, ActivityIndicator } from 'react-native';
+import { Text, TouchableOpacity, View, Image, FlatList, Button, ActivityIndicator, RefreshControl } from 'react-native';
 import { height, width } from '../const/const';
 
 export default function Home({ navigation }) {
 
     const [postData, setPostData] = useState([])
     const [loading, setLoading] = useState(true)
+    const [refreshing, setRefreshing] = useState(false)
 
     useEffect(async () => {
         getPost()
+    }, [])
+
+    const onRefresh = React.useCallback(() => {
+        setRefreshing(true);
+        getPost()
+
     }, [])
 
 
@@ -17,9 +24,11 @@ export default function Home({ navigation }) {
         axios.get("https://iota-reach-u.herokuapp.com/api/v1/posts").then((res) => {
             console.log(res.data.data)
             setLoading(false)
+            setRefreshing(false)
             setPostData(res.data.data)
         }).catch((err) => {
             setLoading(false)
+            setRefreshing(false)
             console.log(err)
         })
     }
@@ -31,6 +40,12 @@ export default function Home({ navigation }) {
         loading ? <ActivityIndicator size="large" color="#376248" /> :
             <View style={{ flex: 1, backgroundColor: '#FFFFFF' }}>
                 <FlatList
+                    refreshControl={
+                        <RefreshControl
+                            refreshing={refreshing}
+                            onRefresh={onRefresh}
+                        />
+                    }
                     data={postData}
                     renderItem={({ item }) => (
                         <View style={{ flex: 1 }}>

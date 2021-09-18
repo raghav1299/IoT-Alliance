@@ -7,6 +7,7 @@ import Home from './src/screens/Home';
 import Carpool from './src/screens/Carpool';
 import Giveaway from './src/screens/Giveaway';
 import AddFeed from './src/screens/AddFeed';
+import Driver from './src/screens/Driver'
 
 
 
@@ -26,6 +27,18 @@ function HomeStack() {
     </Stack.Navigator>
   )
 }
+function CarpoolStack() {
+  return (
+    <Stack.Navigator>
+      <Stack.Screen name='Carpool' component={Carpool} options={{
+        headerShown: false
+      }} />
+      <Stack.Screen name='Driver' component={Driver} options={{
+        headerShown: false
+      }} />
+    </Stack.Navigator>
+  )
+}
 
 export default function App() {
 
@@ -40,7 +53,7 @@ export default function App() {
             if (route.name === 'HomeStack') {
               icon = require("./src/assets/home.png")
               tint = focused ? "#5CA878" : "grey"
-            } else if (route.name === 'Carpool') {
+            } else if (route.name === 'CarpoolStack') {
               icon = require("./src/assets/carpool.png")
               tint = focused ? "#5CA878" : "grey"
             } else if (route.name === 'Giveaway') {
@@ -73,7 +86,7 @@ export default function App() {
               </View>)
           }} />
 
-        <Tab.Screen name="Carpool" component={Carpool}
+        <Tab.Screen name="CarpoolStack" component={CarpoolStack}
           options={{
             title: "Carpool", headerRight: () => (
               <View style={{ flexDirection: 'row', alignItems: 'center' }}>
