@@ -6,7 +6,7 @@ const {
   getGiveAwayDocumentById,
   updateGiveAwayDocumentById,
   deleteGiveAwayDocumentById,
-} = require("../services/giveAway");
+} = require("../services/giveaway");
 
 /**
  * @route   POST /api/v1/giveAways

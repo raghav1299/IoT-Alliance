@@ -12,14 +12,14 @@ const {
   getGiveAwayById,
   updateGiveAwayById,
   deleteGiveAwayById,
-} = require("../controllers/giveAway");
+} = require("../controllers/giveaway");
 
 const {
   createGiveAwayItem,
   getGiveAwayItemById,
   updateGiveAwayItemById,
   deleteGiveAwayItemById,
-} = require("../controllers/giveAwayItem");
+} = require("../controllers/giveawayItem");
 
 router
   .route("/")
