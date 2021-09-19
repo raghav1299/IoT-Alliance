@@ -64,32 +64,12 @@
  ```
  Fork The Repository ✅
  
- $ git clone https://github.com/<username>/Team_Nodemon.git   
+ $ git clone https://github.com/<username>/IoT-Alliance   
 ```
 
   ```
- $ cd Team_Nodemon
+ $ cd IoT-Alliance
  ```
-
-#### Start the Python ML backend 🚀 :
-
-   ```
-   !! APIs will not work upon run as it requires a .env file to be added with the credentials.
-   
-   pip install poetry
-   cd ML
-   bash install.sh
-   bash run.sh
-   ```
-   
-  **OR**
-   
-   ```
-   pip install poetry
-   cd ML/Recommendation_sys
-   poetry install
-   poetry run uvicorn main:app --reload
-   ```
   
 
 #### Start the Backend Server 🗃 :
@@ -124,25 +104,20 @@
   #### Recommendation System | Backend :
   
   ```
-  Python
-  - Scikit Learn
-  - Pandas
-  - NLP
-  - Poetry
-  - FastAPI
-  - Uvicorn
+ - Node JS
+  - Express
   
   Database
-  - MySQL
+  - MongoDB
   
   Deployment
-  - AWS
+  - Heroku
   ```
   
   <div>
    <h3>API Documentation:</h3>
 
-  <a href="https://leap.swarnabha.tech/docs"> https://leap.swarnabha.tech/docs </a><br>
+  <a href="https://documenter.getpostman.com/view/13595623/U16qH2T9"> https://documenter.getpostman.com/view/13595623/U16qH2T9 </a><br>
   </div>
   
   #### Admin | Frontend
@@ -156,13 +131,10 @@
   ```
   - Node JS
   - Express
-  - RabbitMQ
+  - MongoDB
     
     Deployment
-    - Azure
-    
-    Open Source APIs
-    - https://rapidapi.com/digitallyamar/api/distance-calculator1(Distance Calculating API)
+    - Heroku
     
    ```
   <div>
@@ -188,92 +160,7 @@
   <br>
 
     
-<div align="center"> 
-  <table>
-<tr align="center">
- <td>
 
-Atimabh Barunaha
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/Atimabh"  height="120" alt="Atimabh">
-</p>
-<p align="center">
-<a href = "https://github.com/Atimabh"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/barunaha/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
- <strong>Frontend | UI-UX<strong>
-</td>
-<td>
-  
-Chetan Pareek
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/cp99says"  height="120" alt="Chetan">
-</p>
-<p align="center">
-<a href = "https://github.com/cp99says"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/cp99says/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-  <strong>Backend Developer<strong>
-</td>
-
-  <td>
-    
-Raghav Sharma
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/raghav1299"  height="120" alt="Senior Developer">
-</p>
-<p align="center">
-<a href = "https://github.com/raghav1299"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/raghavsharma1299/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-    <strong>App Developer<strong>
-</td>
-
-  <td>
-    
-Ram Prakash Reddy
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/ramprakashreddy"  height="120" alt="Ram">
-</p>
-<p align="center">
-<a href = "https://github.com/ramprakashreddy"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ram1612/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-    <strong>App Developer<strong>
-</td>
-
-<td>
-  
-Swarnabha Das
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/sd2001"  height="120" alt="Swarnabha Das">
-</p>
-<p align="center">
-<a href = "https://github.com/sd2001"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/swarnabha-das-2001official/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-  <strong>ML | Backend<strong>
-</td>
-  
-  </table>
-</tr>
-</div>
-  <br>
   
   
  <!-- END -->
