@@ -44,6 +44,9 @@
   <img src="media/two.png" height="350" />
   <img src="media/three.png" height="350"/>
   <img src="media/four.png" height="350"/>
+  <br>
+  <img src="media/five.png" height="350"/>
+  <img src="media/six.png" height="350"/>
 </div>
 <br>
 
