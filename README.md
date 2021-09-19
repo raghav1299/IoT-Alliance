@@ -7,12 +7,12 @@
     <br>
 
   </p>
-  <img src="media/cartoon-programmer.jpg" height="300"/>
+  <img src="media/cartoon-programmer.jpg" height="400"/>
   <br><br>
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
   </p>
-  <img src="media/problem statement.png" />
+  <img src="media/problem statement.png" height="100"/>
   <br><br>
  </div>
  
@@ -21,7 +21,7 @@
  <div align="center"> 
     <p>
     <img src="media/what.png" height="55"/></p>
-    <img src="media/features.png" />
+    <img src="media/features.png" height="400"/>
   <br><br>
  </div>
 
