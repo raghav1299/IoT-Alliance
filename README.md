@@ -47,25 +47,14 @@
   <br>
   <br>
   <br>
+  <br>
+  <br>
   <img src="media/five.png" height="350"/>
   <img src="media/six.png" height="350"/>
 </div>
 <br>
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/Prerequisites-teal?logo=Pinboard&style=for-the-badge" height="55"/><br>
-</div>
-<br>
 
-
- ```
- 
- - Node.js
- - Express js
- - React js
- - React Native
-  
- ```
  <br>
  
  <div align="center"> 
@@ -83,29 +72,6 @@
  ```
   
 
-#### Start the Backend Server 🗃 :
-
-  ```
-  npm install 
-  npm install -g nodemon
-  nodemon app
-  ```
-
-#### Start the Frontend Admin 🖥️ :
-  
-  ```
-  npm install
-  npm start
-  ```
-
-#### Start the Native App 📱 :
-
-  ```
-  npm install
-  npx react-native run-android
-  ```
-
-<br><br>
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Tech%20Stack%20Used-chocolate?logo=Tesla&style=for-the-badge" height="55"/> 
@@ -152,7 +118,7 @@
 
   <h3>API Documentation:</h3>
 
-  <a href="https://api.chetanpareek.tech/api-docs/"> https://api.chetanpareek.tech/api-docs/ </a><br>
+  <a href="https://documenter.getpostman.com/view/13595623/U16qH2T9"> https://documenter.getpostman.com/view/13595623/U16qH2T9 </a><br>
 
   </div>
 
