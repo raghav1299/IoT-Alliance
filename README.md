@@ -10,7 +10,7 @@
   <img src="media/cartoon-programmer.jpg" />
   <br><br>
   <p>
-  <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
+  <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="35"/>
   </p>
   <img src="media/p_statement.png" />
   <br><br>
@@ -20,7 +20,7 @@
 - [x] Can AI play a role here by predictively analysing the customer order patterns? Can a grocery order be auto-triggered?
 
   <div align="center"> 
-  <img src="media/flowchart.png" />
+  <img src="media/art.png" />
   </div>
     
     ```
@@ -89,7 +89,7 @@
 <div align="center"> 
     <p>
     <img src="https://img.shields.io/badge/system%20architecture-moccasin?logo=Databricks&style=for-the-badge" height="55"/></p>
-    <img src="media/Sys_Arch.png" />
+    <img src="media/flowchart.png" />
   <br><br>
  </div>
 
