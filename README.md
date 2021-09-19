@@ -1,7 +1,7 @@
 ## IoT-Alliance
 <div align="center"> 
   <p align='center'> 
-   <img src="https://img.shields.io/badge/Name%20-%20Reach-U-darkgreen?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Name%20-%20Nodemarket🔥 -darkgreen?style=for-the-badge" />
    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
    <img src="https://img.shields.io/badge/By-Team%20IoTAlliance-blue?style=for-the-badge" /><br>
     <br>
@@ -153,26 +153,5 @@
   - React Native
   ```
   <br>
-
-<div align="center"> 
-  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="55"/> 
-</div>
-  <br>
-
     
-
-  
-  
  <!-- END -->
-
-<div align="center">
- <p>
- <br>
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" /><br>
-   <br><strong><Repo-Name></strong>This Repository is available under MIT License, read the LICENSE file for more info
-  <p>
- </div>
-   
- <div align="center">
-  <img src="https://img.shields.io/badge/Please%20star%20if%20you%20like%20it-lightcoral?logo=Starship&style=for-the-badge" width="300" height="35"/>
- </div>
