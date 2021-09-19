@@ -40,10 +40,10 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Product%20Images-mediumseagreen?logo=Pinterest&style=for-the-badge" height="55" /><br><br>
-  <img src="media/one.png" />
-  <img src="media/two.png" />
-  <img src="media/three.png" />
-  <img src="media/four.png" />
+  <img src="media/one.png" height="350"/>
+  <img src="media/two.png" height="350" />
+  <img src="media/three.png" height="350"/>
+  <img src="media/four.png" height="350"/>
 </div>
 <br>
 
