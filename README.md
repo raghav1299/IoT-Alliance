@@ -35,7 +35,7 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Product%20Images-mediumseagreen?logo=Pinterest&style=for-the-badge" height="55" /><br><br>
-  <img src="media/mockup1.jpg" />
+  <img src="media/1.jpg" />
   <img src="media/mockup2.jpg" />
   <img src="media/mockup3.jpg" />
 </div>
