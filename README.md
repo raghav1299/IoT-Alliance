@@ -22,7 +22,7 @@
   <p>Vehicular traffic is one of the greatest challenges faced by all major cities all over the world. Do you know as per the data released by the World Health Organization more than one million deaths each year are imputed to air pollution, of which a large proportion is caused by vehicular traffic? Horrifying, indeed.
 It’s surprising that there are numerous personal as well as environmental benefits that car share and carpool offer to mankind, yet we are so hesitant to procure this smart solution.
   
-  Secondly,Overall food supply is wasted, which impacts food security, resource conservation, and contributes to the methane emissions that come from landfills. Reducing the amount of food waste sent to landfills can help ease the impact of climate change and also put food in the mouths of millions of people.</p>
+  Secondly,The food that is wasted, impacts food security, resource conservation, and contributes to the methane emissions that come from landfills. Reducing the amount of food waste sent to landfills can help ease the impact of climate change and also put food in the mouths of millions of people.</p>
   <br><br>
  </div>
 
