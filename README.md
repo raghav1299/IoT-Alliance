@@ -12,11 +12,16 @@
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
   </p>
-  <img src="media/ps.png" height="100"/>
+  <img src="media/ps.png" height="20"/>
   <br><br>
  </div>
  
-
+<div align="center"> 
+    <p>
+    <img src="media/why.png" height="55"/></p>
+  <p>hello</p>
+  <br><br>
+ </div>
 
  <div align="center"> 
     <p>
@@ -35,10 +40,10 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Product%20Images-mediumseagreen?logo=Pinterest&style=for-the-badge" height="55" /><br><br>
-  <img src="media/1.png" />
-  <img src="media/2.png" />
-  <img src="media/3.png" />
-  <img src="media/4.png" />
+  <img src="media/one.png" />
+  <img src="media/two.png" />
+  <img src="media/three.png" />
+  <img src="media/four.png" />
 </div>
 <br>
 
