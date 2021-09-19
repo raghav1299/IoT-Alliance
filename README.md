@@ -7,12 +7,12 @@
     <br>
 
   </p>
-  <img src="media/cartoon-programmer.jpg" />
+  <img src="media/cartoon-programmer.jpg" height="300"/>
   <br><br>
   <p>
-  <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
   </p>
-  <img src="media/p_statement.png" />
+  <img src="media/problem statement.png" />
   <br><br>
  </div>
  
@@ -20,8 +20,8 @@
 
  <div align="center"> 
     <p>
-    <img src="https://img.shields.io/badge/Why%20%7C%20What%20it%20does-darkslategrey?logo=Windows%20Terminal&style=for-the-badge" height="55"/></p>
-    <img src="media/approach.png" />
+    <img src="media/what.png" height="55"/></p>
+    <img src="media/features.png" />
   <br><br>
  </div>
 
