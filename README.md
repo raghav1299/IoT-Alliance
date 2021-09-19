@@ -7,7 +7,7 @@
     <br>
 
   </p>
-  <img src="media/logo.jpg" />
+  <img src="media/cartoon-programmer.jpg" />
   <br><br>
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
@@ -20,7 +20,7 @@
 - [x] Can AI play a role here by predictively analysing the customer order patterns? Can a grocery order be auto-triggered?
 
   <div align="center"> 
-  <img src="media/Reco_sys.png" />
+  <img src="media/flowchart.png" />
   </div>
     
     ```
