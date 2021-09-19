@@ -82,16 +82,12 @@ It’s surprising that there are numerous personal as well as environmental bene
   - Heroku
   ```
   
-  <div>
-   <h3>API Documentation:</h3>
-
-  <a href="https://documenter.getpostman.com/view/13595623/U16qH2T9"> https://documenter.getpostman.com/view/13595623/U16qH2T9 </a><br>
-  </div>
   
-  #### Admin | Frontend
+  
+  #### Frontend
   
   ```
-  - React JS
+  - React Native
   ```
   
   #### Server | Backend
@@ -115,11 +111,6 @@ It’s surprising that there are numerous personal as well as environmental bene
 
 
   
-  #### Native | Android
-  
-  ```
-  - React Native
-  ```
   <br>
     
  <!-- END -->
