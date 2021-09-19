@@ -69,19 +69,6 @@ It’s surprising that there are numerous personal as well as environmental bene
 </div>
   <br>
   
-  #### Recommendation System | Backend :
-  
-  ```
- - Node JS
-  - Express
-  
-  Database
-  - MongoDB
-  
-  Deployment
-  - Heroku
-  ```
-  
   
   
   #### Frontend
