@@ -60,20 +60,6 @@ It’s surprising that there are numerous personal as well as environmental bene
 
  <br>
  
- <div align="center"> 
-  <img src="https://img.shields.io/badge/Setting%20up%20locally-purple?logo=visual-studio-code&style=for-the-badge" height="55"/> 
-</div><br>
-
- ```
- Fork The Repository ✅
- 
- $ git clone https://github.com/<username>/IoT-Alliance   
-```
-
-  ```
- $ cd IoT-Alliance
- ```
-  
 
 
 <div align="center"> 
