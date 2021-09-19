@@ -49,8 +49,8 @@
 
  ```
  
- - Python(3.9.6): Poetry for python dependency management
  - Node.js
+ - Express js
  - React js
  - React Native
   
