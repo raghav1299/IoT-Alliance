@@ -22,6 +22,7 @@ const carpoolRouter = require("../routes/carpool");
 const locationRouter = require("../routes/location");
 const stopLocationRouter = require("../routes/stopLocation");
 const imageRouter = require("../routes/image");
+const giveAwayRouter = require("../routes/giveaway");
 
 module.exports = (app) => {
   // Public files
@@ -74,6 +75,7 @@ module.exports = (app) => {
   app.use("/api/v1/location", locationRouter);
   app.use("/api/v1/stopLocation", stopLocationRouter);
   app.use("/api/v1/images", imageRouter);
+  app.use("/api/v1/giveAways", giveAwayRouter);
 
   app.use("/", (req, res) => {
     res.status(200).json({ success: true });
