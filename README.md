@@ -12,7 +12,7 @@
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
   </p>
-  <img src="media/problem statement.png" height="100"/>
+  <img src="media/ps.png" height="100"/>
   <br><br>
  </div>
  
@@ -35,9 +35,10 @@
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Product%20Images-mediumseagreen?logo=Pinterest&style=for-the-badge" height="55" /><br><br>
-  <img src="media/1.jpg" />
-  <img src="media/mockup2.jpg" />
-  <img src="media/mockup3.jpg" />
+  <img src="media/1.png" />
+  <img src="media/2.png" />
+  <img src="media/3.png" />
+  <img src="media/4.png" />
 </div>
 <br>
 
